@@ -1,4 +1,6 @@
 # EcommerceAnalyis Machine Learning Model 
+![image](https://github.com/Sattwikmaiti/EcommerceAnalyis/assets/90182231/574357be-94b1-4f06-9cff-93e69ab54248)
+
 ![image](https://github.com/Sattwikmaiti/EcommerceAnalyis/assets/90182231/51a74a48-a461-4d71-94ff-403a870440fe)
 ![image](https://github.com/Sattwikmaiti/EcommerceAnalyis/assets/90182231/537c88de-2d32-4e84-af07-5d8d65971319)
 ![image](https://github.com/Sattwikmaiti/EcommerceAnalyis/assets/90182231/cfd1b8c7-6cf3-4a97-9d25-830fc26a2e10)
